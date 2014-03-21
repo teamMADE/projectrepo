@@ -1,0 +1,10 @@
+Statistics
+==========
+
+
+Item	     	Tonnes Recycled
+----         	---------------
+Paper     	    	15
+Cardboard           	28
+Plastic		    	34
+Glass		       173
